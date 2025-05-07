@@ -62,12 +62,7 @@ TRABAJAMOS CON LAS SIGUIENTES TECNICAS💅🏻:
     <p><strong>GMAIL:</strong> lezcanovictoria034@gmail.com</p>
 
   
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Mapa - Santiago del Estero 1999, Merlo</title>
-</head>
-<body>
+
   <h1>Ubicación: Santiago del Estero 1999, Merlo, Buenos Aires</h1>
   
 
